@@ -7,10 +7,22 @@ This repository contains the code for a responsive and interactive website creat
 
 <br>
 
-### In dark mode
+### Home Page
 
-![Home Page](./preview/about page.jpg)
+![Home Page](preview/home-page.jpg)
 
-### In light mode
+### About Page
 
-![In light mode](./preview/hailee-light.png)
+![About Page](preview/about-page.jpg)
+
+### Courses Page
+
+![Courses Page](preview/courses-page.jpg)
+
+### Shop Page
+
+![Shop Page](preview/shop-page.jpg)
+
+### Contact Page
+
+![Contact Page](preview/contact-page.jpg)
